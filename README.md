@@ -1,2 +1,2 @@
 # intro
-following the tutorial, cuz everyone needs to RTFM
+Following the tutorial, cuz everyone needs to RTFM....
